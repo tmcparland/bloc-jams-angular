@@ -1,4 +1,6 @@
-## Bloc Frontend Project Starter
+## Bloc Jams AngularJS starter
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 A starter application for student projects in Bloc's [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
 
